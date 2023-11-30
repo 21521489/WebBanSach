@@ -1,0 +1,37 @@
+/*PRODUCT DETAL*/
+
+#product-detail {
+	background: #eee;
+	padding: 30px 0px 30px 0px;
+}
+#product-detail #menu-link {
+	margin-top: 10px;
+	margin-bottom: -20px;
+}
+.product-content {
+	margin: 50px 190px;
+	background: #fff;
+	padding: 60px 0px;
+}
+.product-content h3 {
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+.product-content h2 {
+	margin-bottom: 20px;
+}
+.product-content p {
+	margin-bottom: 50px;
+}
+.product-content .divider {
+  margin-bottom: 20px;
+}
+.product-content .divider h2 {
+  display: block;
+  padding: 0px 55px;
+}
+.product-content .divider span{
+  border-top: 1px solid #c4c4c4;
+  flex-grow: 2;
+}
+
